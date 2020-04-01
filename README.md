@@ -17,6 +17,8 @@ print """
 ----------
 *Click here and Subscribe 2 <a href="https://www.youtube.com/AronTnXofficial">ARON-TN</a> ..enjoy ^_^*
 
+*Check The Video From <a href="https://www.youtube.com/watch?v=3C547FZUBp0">Here</a> ..enjoy ^_^*
+
 **How To Use ?**
 ----------
 
